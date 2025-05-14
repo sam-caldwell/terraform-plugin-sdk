@@ -5,7 +5,7 @@ go 1.22.0
 toolchain go1.22.7
 
 require (
-	github.com/google/go-cmp v0.6.0
+	github.com/google/go-cmp v0.7.0
 	github.com/hashicorp/go-cty v1.4.1-0.20200414143053-d3edf31b6320
 	github.com/hashicorp/go-hclog v1.6.3
 	github.com/hashicorp/go-plugin v1.6.0
@@ -15,14 +15,14 @@ require (
 	github.com/hashicorp/hcl/v2 v2.22.0
 	github.com/hashicorp/logutils v1.0.0
 	github.com/hashicorp/terraform-exec v0.21.0
-	github.com/hashicorp/terraform-json v0.22.1
+	github.com/hashicorp/terraform-json v0.25.0
 	github.com/hashicorp/terraform-plugin-go v0.23.0
 	github.com/hashicorp/terraform-plugin-log v0.9.0
 	github.com/mitchellh/copystructure v1.2.0
 	github.com/mitchellh/go-testing-interface v1.14.1
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/mitchellh/reflectwalk v1.0.2
-	github.com/zclconf/go-cty v1.15.0
+	github.com/zclconf/go-cty v1.16.2
 	golang.org/x/crypto v0.27.0
 )
 
